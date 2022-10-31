@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948361365323",
+    "project_id": "mylebanon-f4182",
+    "storage_bucket": "mylebanon-f4182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948361365323:android:df40ec9e63425c77e40ace",
+        "android_client_info": {
+          "package_name": "com.mylebanon1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948361365323-jsbqj9pb949q4pj1ccs2oaufb3qstqki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw5R5FgHe0_tTwMCjHYaux-cFUHMv85cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948361365323-jsbqj9pb949q4pj1ccs2oaufb3qstqki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
